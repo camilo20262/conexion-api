@@ -129,6 +129,15 @@ Salida esperada:
 * Si el entorno falla, verifica que `(venv)` esté activo
 * Para salir del entorno virtual:
 
+---
+
+## 📸 Evidencia de ejecución
+
+A continuación se muestra la ejecución del script de conexión con Gemini y la respuesta generada por la API:
+
+![Evidencia de ejecución del script](evidencia_ejecucion.png)
+
+
 ```bash
 deactivate
 ```
