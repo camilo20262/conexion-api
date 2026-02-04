@@ -28,7 +28,6 @@ GEMINI/
 ├── prueba_entorno.py      # Script de verificación de entorno y conectividad
 ├── requirements.txt       # Dependencias del proyecto
 ├── .gitignore             # Archivos ignorados por Git
-├── .env.example           # Ejemplo de variables de entorno
 ```
 
 > ⚠️ El archivo `.env` y la carpeta `venv/` **no se suben al repositorio** por seguridad.
